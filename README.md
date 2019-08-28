@@ -1,4 +1,4 @@
-# H1 pythonforeverybody
+# pythonforeverybody
 
 Goals (high level intended outcomes; for software, a Product Backlog)
 
