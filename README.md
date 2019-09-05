@@ -1,19 +1,22 @@
 # pythonforeverybody
 
-Goals 
-*(high level intended outcomes; for software, a Product Backlog)
+##Goals 
+- Complete python for everybody
 
-Boundaries / Scope (where the functions and responsibilities of the solution start and end / what it should do and what is left to other systems to do)
+##Boundaries / Scope 
+- My boundaries are based on what i can do with in the course
 
-Success criteria (set of conditions to be satisfied at completion; must be measurable and verifiable, like a test)
+##Success criteria
+- To be able to understand code and be able to make a program on my own
 
-Constraints (externally imposed limitations on system requirements, design, or implementation or on the process used to develop or modify a system)
+##Constraints 
+- No constaints besides time
 
-Assumptions (things that are accepted as true or as certain to happen, without proof)
+##Assumptions (things that are accepted as true or as certain to happen, without proof)
 
-Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)
+##Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)
 
-Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)
+##Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)
 
 1. Chapter One - Why we Program? (3 hours)
 2. Chapter Two: Variables and Expressions (3 hours)
