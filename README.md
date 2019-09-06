@@ -1,23 +1,25 @@
 # pythonforeverybody
 
-##Goals 
+## Goals 
 - Complete python for everybody
 
-##Boundaries / Scope 
+## Boundaries / Scope 
 - My boundaries are based on what i can do with in the course
 
-##Success criteria
+## Success criteria
 - To be able to understand code and be able to make a program on my own
 
-##Constraints 
+## Constraints 
 - No constaints besides time
 
-##Assumptions (things that are accepted as true or as certain to happen, without proof)
+## Assumptions 
+- I believe that i will earn my certificate for Python
 
-##Stakeholders (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)
+## Stakeholders 
+- My Professor, and I
 
-##Timelines (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)
-
+## Timelines 
+- I hope to earn my certificate within the next month to try and get away from spending an extra $49.99 But i have 12 weeks to officially earn it.
 1. Chapter One - Why we Program? (3 hours)
 2. Chapter Two: Variables and Expressions (3 hours)
 3. Chapter Three: Conditional Code (3 hours)
