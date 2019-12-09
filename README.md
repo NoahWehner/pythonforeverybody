@@ -29,12 +29,8 @@
 4. Chapter Five: Loops and Iteration (3 hours)
 - learning about syntaxs for contants, variables and constants
 5. Chapter Four: Functions (2 hours)
-learning about conditional exicution, the if statements determine the condition to execute.
+- learning about conditional exicution, the if statements determine the condition to execute.
 6. Chapter Seven: Files (3 hours)
-week 6 we learn about storing and reusing code with in your code. this is for being able to name a code and then being able to reuse it just in case you wanna change it or its wrong you dont have to update everything just the file.
-7. Chapter Eight: Lists (3 hours)
-8. Chapter Six: Strings (3 hours)
-9. Chapter Nine: Dictionaries (3 hours)
-10. Chapter Ten: Tuples (2 hours)
-11. Graduation and work on independent program (2 hours)
-12. Complete independent program (2 hours)
+- week 6 we learn about storing and reusing code with in your code. this is for being able to name a code and then being able to reuse it just in case you wanna change it or its wrong you dont have to update everything just the file.
+7. Chapter Seven: Loops (3 hours)
+- in week seven we learned about loops, loops are used for iterating over a set of statements repeatedly, in general terms it is set up to define the iterable, then does this element exist? yes then theres an action and takes the next element but if the answer is no then end loop. their are two differnet kinds of loops, for and while loops.
